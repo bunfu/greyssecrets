@@ -1,20 +1,41 @@
-.. Grey's Secrets documentation master file, created by
-   sphinx-quickstart on Fri May  4 19:05:24 2018.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Grey's Secrets
+==============
 
-Welcome to Grey's Secrets's documentation!
-==========================================
+Soon to be an awesome collection knowledge bombs. 
+
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Mechanics
+   :hidden:
+
+   familiars
+   equipment
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Player-vs-Environment (PvE)
+   :hidden:
+
+   darknests
+   mh
 
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Player-vs-Environment (PvP)
+   :hidden:
 
-Indices and tables
-==================
+   coliseum
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Events
+   :hidden:
+
+   kvk
+   guildfest
+
+
+   
