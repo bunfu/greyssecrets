@@ -1,7 +1,7 @@
 Grey's Secrets
 ==============
 
-Soon to be an awesome collection knowledge bombs. 
+Soon to be an awesome collection of knowledge bombs. 
 
 
 .. toctree::
